@@ -1,0 +1,109 @@
+{
+  "menu": [
+    {
+      "kategori": "pizza",
+      "nama": "Meat Lover",
+      "deskripsi": "Beef sausage slices, minced beef, beef burgers, chicken sausages.",
+      "harga": 5,
+      "gambar": "meat-lover.jpg"
+    },
+    {
+      "kategori": "pizza",
+      "nama": "Super Supreme",
+      "deskripsi": "Smoked chicken and beef, minced beef, beef burger, mushrooms, red peppers and green peppers.",
+      "harga": 10,
+      "gambar": "supreme.jpg"
+    },
+    {
+      "kategori": "pizza",
+      "nama": "Tuna Melt",
+      "deskripsi": "Tuna fish slices, corn kernels, mayonnaise sauce.",
+      "harga": 15,
+      "gambar": "tuna-melt.jpg"
+    },
+    {
+      "kategori": "pizza",
+      "nama": "American Favourite",
+      "deskripsi": "Beef pepperoni, ground beef, mushrooms.",
+      "harga": 15,
+      "gambar": "american-favourite.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Beef Spaghetti",
+      "deskripsi": "Beef pepperoni, ground beef, mushrooms.",
+      "harga": 10,
+      "gambar": "beef-spaghetti.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Beef Lasagna",
+      "deskripsi": "Baked, minced beef. Soft white cream on each layer..",
+      "harga": 15,
+      "gambar": "beef-lasagna.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Creamy Beef Fettuccine",
+      "deskripsi": "Smoked beef and mushrooms, sautéed in a creamy sauce.",
+      "harga": 15,
+      "gambar": "creamy-beef-fettuccine.jpg"
+    },
+    {
+      "kategori": "hahan",
+      "nama": "Meatballs Beef Mushroom",
+      "deskripsi": "Beef balls with minced beef and mushroom sauce.",
+      "harga": 5,
+      "gambar": "meatballs-beef-mushroom.jpg"
+    },
+    {
+      "kategori": "hahan",
+      "nama": "Black Pepper Chicken",
+      "deskripsi": "Chicken with black pepper sauce.",
+      "harga": 5,
+      "gambar": "black-pepper-chicken.jpg"
+    },
+    {
+      "kategori": "hemu",
+      "nama": "Choco Mint",
+      "deskripsi": "the rich, deep sweetness of chocolate with the cool",
+      "harga": 5,
+      "gambar": "choco-mint.jpg"
+    },
+    {
+      "kategori": "hemu",
+      "nama": "Toffee Coffee",
+      "deskripsi": "often served as a shake or a blended beverage, combines the rich",
+      "harga": 5,
+      "gambar": "toffee-coffee.jpg"
+    },
+    {
+      "kategori": "hemu",
+      "nama": "Green Tea Shake",
+      "deskripsi": "refreshing beverage made by blending vanilla ice cream",
+      "harga": 5,
+      "gambar": "green-tea-shake.jpg"
+    },
+    {
+      "kategori": "hemu",
+      "nama": "Strawberry Milkshake",
+      "deskripsi": "chilled drink prepared by blending vanilla ice cream",
+      "harga": 5,
+      "gambar": "strawberry-milkshake.jpg"
+    },
+    {
+      "kategori": "hemu",
+      "nama": "Chocolate Milkshake",
+      "deskripsi": "fresh milk, and ice until it achieves a thick, smooth, and creamy consistency.",
+      "harga": 5,
+      "gambar": "chocolate-milkshake.jpg"
+    },
+    {
+      "kategori": "hemu",
+      "nama": "Orange Juice",
+      "deskripsi": "fresh milk, and ice until it achieves a thick, smooth, and creamy consistency.",
+      "harga": 5,
+      "gambar": "chocolate-milkshake.jpg"
+    }
+  ]
+}
